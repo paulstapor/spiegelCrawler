@@ -2,7 +2,7 @@ name: Send mail to myself
 
 on:
   schedule:
-  - cron: "*/15 * * * *"
+  - cron: "42 0 * * *"
 
 jobs:
   Explore-GitHub-Actions:
